@@ -136,9 +136,9 @@ Priority: Workspace > Local > Bundled
 - [deploy-agent](https://github.com/moltbot/skills/tree/main/skills/sherajdev/deploy-agent/SKILL.md) - Multi-step deployment agent for full-stack apps.
 - [github](https://github.com/moltbot/skills/tree/main/skills/steipete/github/SKILL.md) - Interact with GitHub using the `gh` CLI.
 - [github-pr](https://github.com/moltbot/skills/tree/main/skills/dbhurley/github-pr/SKILL.md) - Fetch, preview, merge, and test GitHub PRs locally.
-- [gitload](https://github.com/moltbot/skills/tree/main/skills/waldekmastykarz/gitload/SKILL.md) - >.
+- [gitload](https://github.com/moltbot/skills/tree/main/skills/waldekmastykarz/gitload/SKILL.md) - Download files or folders from GitHub without cloning the entire repo.
 - [pr-commit-workflow](https://github.com/moltbot/skills/tree/main/skills/joshp123/pr-commit-workflow/SKILL.md) - This skill should be used when creating commits or pull requests.
-- [read-github](https://github.com/moltbot/skills/tree/main/skills/am-will/read-github/SKILL.md) - >.
+- [read-github](https://github.com/moltbot/skills/tree/main/skills/am-will/read-github/SKILL.md) - Read GitHub repos via gitmcp.io with semantic search and LLM-optimized output.
 
 ## DevOps & Cloud
 
@@ -147,7 +147,7 @@ Priority: Workspace > Local > Bundled
 - [coolify](https://github.com/moltbot/skills/tree/main/skills/visiongeist/coolify/SKILL.md) - Manage Coolify deployments, applications, databases, and services via the Coolify API.
 - [digital-ocean](https://github.com/moltbot/skills/tree/main/skills/dbhurley/digital-ocean/SKILL.md) - Manage Digital Ocean droplets, domains, and infrastructure via DO API.
 - [dokploy](https://github.com/moltbot/skills/tree/main/skills/joshuarileydev/dokploy/SKILL.md) - Manage Dokploy deployments, projects, applications, and domains via the Dokploy API.
-- [domain-dns-ops](https://github.com/moltbot/skills/tree/main/skills/steipete/domain-dns-ops/SKILL.md) - >.
+- [domain-dns-ops](https://github.com/moltbot/skills/tree/main/skills/steipete/domain-dns-ops/SKILL.md) - Domain/DNS ops across Cloudflare, DNSimple, and Namecheap.
 - [domaindetails](https://github.com/moltbot/skills/tree/main/skills/julianengel/domaindetails/SKILL.md) - Look up domain WHOIS/RDAP info and check marketplace listings. Free API, no auth required.
 - [exa-plus](https://github.com/moltbot/skills/tree/main/skills/jordyvandomselaar/exa-plus/SKILL.md) - Neural web search via Exa AI. Search people, companies, news, research, code.
 - [exe-dev](https://github.com/moltbot/skills/tree/main/skills/bjesuiter/exe-dev/SKILL.md) - Manage persistent VMs on exe.dev. Create VMs, configure HTTP proxies, share access.
@@ -252,7 +252,7 @@ Priority: Workspace > Local > Bundled
 - [canvas-lms](https://github.com/moltbot/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments, grades, and submissions.
 - [Cat Fact](https://github.com/moltbot/skills/tree/main/skills/thesethrose/catfact/SKILL.md) - Random cat facts and breed information from catfact.ninja (free, no API key).
 - [content-advisory](https://github.com/moltbot/skills/tree/main/skills/dbhurley/content-advisory/SKILL.md) - Lookup detailed content ratings for movies and TV shows (sex/nudity, violence/gore.
-- [create-cli](https://github.com/moltbot/skills/tree/main/skills/steipete/create-cli/SKILL.md) - >.
+- [create-cli](https://github.com/moltbot/skills/tree/main/skills/steipete/create-cli/SKILL.md) - Design CLI arguments, flags, subcommands, and help text.
 - [data-reconciliation-exceptions](https://github.com/moltbot/skills/tree/main/skills/kowl64/data-reconciliation-exceptions/SKILL.md) - Reconciles data sources using stable identifiers (Pay Number, driving licence, driver card.
 - [dilbert](https://github.com/moltbot/skills/tree/main/skills/hjanuschka/dilbert/SKILL.md) - dilbert
 - [dropbox](https://github.com/moltbot/skills/tree/main/skills/ryanlisse/dropbox/SKILL.md) - dropbox
@@ -383,7 +383,7 @@ Priority: Workspace > Local > Bundled
 - [gemini-computer-use](https://github.com/moltbot/skills/tree/main/skills/am-will/gemini-computer-use/SKILL.md) - Build and run Gemini 2.5 Computer Use browser-control agents with Playwright.
 - [gemini-deep-research](https://github.com/moltbot/skills/tree/main/skills/arun-8687/gemini-deep-research/SKILL.md) - Perform complex, long-running research tasks using Gemini Deep Research Agent.
 - [gemini-stt](https://github.com/moltbot/skills/tree/main/skills/araa47/gemini-stt/SKILL.md) - Transcribe audio files using Google's Gemini API or Vertex AI.
-- [llm-council](https://github.com/moltbot/skills/tree/main/skills/am-will/llm-council/SKILL.md) - >.
+- [llm-council](https://github.com/moltbot/skills/tree/main/skills/am-will/llm-council/SKILL.md) - Orchestrate multi-LLM councils to produce and merge implementation plans.
 - [lmstudio-subagents](https://github.com/moltbot/skills/tree/main/skills/t-sinclair2500/lm-studio-subagents/SKILL.md) - Equips agents to search for and offload tasks to local models in LM Studio.
 - [minimax-usage](https://github.com/moltbot/skills/tree/main/skills/thesethrose/minimax-usage/SKILL.md) - Monitor Minimax Coding Plan usage to stay within API limits.
 - [model-router](https://github.com/moltbot/skills/tree/main/skills/digitaladaption/model-router/SKILL.md) - A comprehensive AI model routing system that automatically selects the optimal model for any task.
